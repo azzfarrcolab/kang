@@ -21,7 +21,7 @@
         {
             "agent": "",
             "algorithm": "turtlecoin",
-            "disableAutoAlgoSelect": false,
+            "disableAutoAlgoSelect": true,
             "host": "ca.turtlecoin.herominers.com",
             "niceHash": false,
             "password": "x",
