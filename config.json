@@ -22,7 +22,7 @@
             "agent": "",
             "algorithm": "turtlecoin",
             "disableAutoAlgoSelect": true,
-            "host": "pool.hashvault.pro:8888",
+            "host": "pool.hashvault.pro",
             "niceHash": false,
             "password": "x",
             "port": 8888,
