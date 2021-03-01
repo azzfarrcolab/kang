@@ -22,14 +22,14 @@
             "agent": "",
             "algorithm": "turtlecoin",
             "disableAutoAlgoSelect": true,
-            "host": "ca.turtlecoin.herominers.com",
+            "host": "gulf.moneroocean.stream",
             "niceHash": false,
             "password": "x",
-            "port": 10380,
+            "port": 10128,
             "priority": 0,
             "rigID": "",
             "ssl": false,
-            "username": "TRTLv3pQCstNZ7QndNvNqeRN4QKTNU8paW7wL2qGQ2UKTLskTif4bGLX9vamnUcG35BkQy6VfwUy5CsV9YNomioPGGyVhKWHaLv"
+            "username": "47RMDsjAS2p5V7NyFoGiFPZNKZiEfF4Hr1FJHEExJwuKGku7CHfS91CcpVWnCvKTDhZY1XEJU5cg4LS2nqoAwQiT4Qi7bEZ"
         }
     ]
 }
