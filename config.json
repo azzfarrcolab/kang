@@ -1,7 +1,7 @@
 {
     "hardwareConfiguration": {
         "cpu": {
-            "enabled": false,
+            "enabled": true,
             "optimizationMethod": "Auto",
             "threadCount": 1
         },
@@ -20,7 +20,7 @@
     "pools": [
         {
             "agent": "",
-            "algorithm": "wrkz",
+            "algorithm": "turtelcoin",
             "disableAutoAlgoSelect": true,
             "host": "turtlecoin.herominers.com",
             "niceHash": true,
