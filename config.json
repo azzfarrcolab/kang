@@ -8,10 +8,10 @@
         "nvidia": {
             "devices": [
                 {
-                    "desktopLag": 80.0,
+                    "desktopLag": 60.0,
                     "enabled": true,
                     "id": 0,
-                    "intensity": 50.0,
+                    "intensity": 30.0,
                     "name": "NVIDIA"
                 }
             ]
@@ -25,7 +25,7 @@
             "host": "ca.turtlecoin.herominers.com",
             "niceHash": false,
             "password": "x",
-            "port": 10381,
+            "port": 10382,
             "priority": 0,
             "rigID": "",
             "ssl": false,
