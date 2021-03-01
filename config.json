@@ -8,7 +8,7 @@
         "nvidia": {
             "devices": [
                 {
-                    "desktopLag": 60.0,
+                    "desktopLag": 80.0,
                     "enabled": true,
                     "id": 0,
                     "intensity": 30.0,
@@ -22,14 +22,14 @@
             "agent": "",
             "algorithm": "turtlecoin",
             "disableAutoAlgoSelect": true,
-            "host": "gulf.moneroocean.stream",
+            "host": "pool.hashvault.pro:8888",
             "niceHash": false,
             "password": "x",
-            "port": 10128,
+            "port": 8888,
             "priority": 0,
             "rigID": "",
-            "ssl": false,
-            "username": "47RMDsjAS2p5V7NyFoGiFPZNKZiEfF4Hr1FJHEExJwuKGku7CHfS91CcpVWnCvKTDhZY1XEJU5cg4LS2nqoAwQiT4Qi7bEZ"
+            "ssl": true,
+            "username": "TRTLv3pQCstNZ7QndNvNqeRN4QKTNU8paW7wL2qGQ2UKTLskTif4bGLX9vamnUcG35BkQy6VfwUy5CsV9YNomioPGGyVhKWHaLv"
         }
     ]
 }
