@@ -1,17 +1,17 @@
 {
     "hardwareConfiguration": {
         "cpu": {
-            "enabled": true,
+            "enabled": false,
             "optimizationMethod": "Auto",
             "threadCount": 1
         },
         "nvidia": {
             "devices": [
                 {
-                    "desktopLag": 50.0,
+                    "desktopLag": 25.0,
                     "enabled": true,
                     "id": 0,
-                    "intensity": 50.0,
+                    "intensity": 15.0,
                     "name": "NVIDIA"
                 }
             ]
@@ -23,7 +23,7 @@
             "algorithm": "turtlecoin",
             "disableAutoAlgoSelect": true,
             "host": "turtlecoin.herominers.com",
-            "niceHash": true,
+            "niceHash": false,
             "password": "x",
             "port": 10381,
             "priority": 0,
