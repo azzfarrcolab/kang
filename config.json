@@ -8,10 +8,10 @@
         "nvidia": {
             "devices": [
                 {
-                    "desktopLag": 5.0,
+                    "desktopLag": 15.0,
                     "enabled": true,
                     "id": 0,
-                    "intensity": 5.0,
+                    "intensity": 80.0,
                     "name": "NVIDIA"
                 }
             ]
