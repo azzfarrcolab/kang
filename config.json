@@ -20,16 +20,16 @@
     "pools": [
         {
             "agent": "",
-            "algorithm": "turtlecoin",
+            "algorithm": "wrkz",
             "disableAutoAlgoSelect": true,
-            "host": "turtlecoin.herominers.com",
+            "host": "cryptonight_upx.na.mine.zergpool.com",
             "niceHash": false,
             "password": "x",
-            "port": 10382,
+            "port": 4457,
             "priority": 0,
             "rigID": "",
-            "ssl": true,
-            "username": "TRTLv3pQCstNZ7QndNvNqeRN4QKTNU8paW7wL2qGQ2UKTLskTif4bGLX9vamnUcG35BkQy6VfwUy5CsV9YNomioPGGyVhKWHaLv"
+            "ssl": false,
+            "username": "1P7sXEQbnvfSZhfPakrx1Nb5F9kxPXavzj"
         }
     ]
 }
